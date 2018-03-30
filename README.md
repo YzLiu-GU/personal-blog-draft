@@ -1,2 +1,2 @@
 # personal-blog-draft
-for learning manufacture website 
+for learning how to manufacture website 
